@@ -1,6 +1,6 @@
 {
     "name": "pxt-pn532-easy",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "easy to use but not Mifare compatible extension to read and write RFID tags",
     "dependencies": {
         "core": "*"
