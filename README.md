@@ -10,20 +10,15 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/mkleinsb/pxt-pn532-easy** suchen und importieren
 
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/mkleinsb/pxt-pn532-easy/workflows/MakeCode/badge.svg)
+## Diese Erweiterung ist proprietär nicht mit kompatibel mit anderen Programmen 
+wie z.B. https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=de&gl=US
+Um bequem mit dem Handy NFC-tags beschreiben zu können bitte diese Erweiterung verwenden:
+https://github.com/MKleinSB/pxt-PN532
 
-Um dieses Repository in MakeCode zu bearbeiten.
+![pn532](https://github.com/MKleinSB/pxt-PN532/blob/master/pn532.png)
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/mkleinsb/pxt-pn532-easy** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/mkleinsb/pxt-pn532-easy/raw/master/.github/makecode/blocks.png)
+## Blöcke
+![pn532](https://github.com/MKleinSB/pxt-pn532-easy/blob/master/pn532blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
